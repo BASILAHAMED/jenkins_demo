@@ -6,7 +6,7 @@ def greet(name):
     """
     return f"Hello, {name}!"
 
-def add_numbers(a, b):
+def add_numbers(a, b): 
     """
     A function that adds two numbers.
     """
