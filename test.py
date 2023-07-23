@@ -1,6 +1,6 @@
 # main.py
 
-def greet(name):
+def greet(name): 
     """
     A simple function that greets the user.
     """
