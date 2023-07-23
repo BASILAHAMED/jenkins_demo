@@ -27,4 +27,4 @@ result = add_numbers(5, 3)
 print("Addition:", result)
 
 result = subtract_numbers(10, 4)
-print("Subtraction:", result)
+print("Subtraction: ", result)
